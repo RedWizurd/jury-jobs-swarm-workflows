@@ -1,0 +1,5 @@
+{
+  "jobs": [
+    {"id": "daily-summary", "schedule": "daily-0900", "task": "Summarize unresolved items"}
+  ]
+}

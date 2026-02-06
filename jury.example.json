@@ -1,0 +1,8 @@
+{
+  "task": "Evaluate candidate approaches",
+  "participants": [
+    {"name": "analyst-a", "model": "qwen2.5:7b"},
+    {"name": "analyst-b", "model": "mixtral:8x7b"},
+    {"name": "analyst-c", "model": "qwen2.5:7b"}
+  ]
+}
