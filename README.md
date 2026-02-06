@@ -27,6 +27,13 @@ python3 scheduler.py --jobs jobs.json
 python3 run_jury.py --config jury.json --task "evaluate proposals"
 ```
 
+## Usage
+```bash
+make setup
+make check
+make run
+```
+
 ## Roadmap
 - Add workflow DSL for jury/jobs/swarm composition.
 - Add per-stage retry policies and circuit breakers.
